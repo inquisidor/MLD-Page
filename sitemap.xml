@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>http://www.mld.com.ve/index.php</loc>
+    <loc>http://www.mld.com.ve/quienes-somos.php</loc>
+    <loc>http://www.mld.com.ve/service-club.php</loc> 
+    <image:image>
+       <image:loc>http://mld.com.ve/img/impresorasP/impresora3.png</image:loc>
+       <image:caption>Versalink B7020/B7025</image:caption>
+    </image:image>
+    <video:video>
+      <video:content_loc>
+        http://mld.com.ve/video/versalink.mp4
+      </video:content_loc>
+      <video:title>Nuevas Versalink</video:title>  
+      <video:description>
+        Presentación de las nuevas Versalink
+      </video:description>
+    </video:video>
+  </url>
+</urlset>

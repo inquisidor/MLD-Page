@@ -1,0 +1,57 @@
+/*Beging style Menu*/
+.product-name {
+    margin-top: 0.6rem;
+}
+
+.product-accordion {
+    @media (min-width: 768px) {
+        .panel {
+            padding-left: 0;
+        }
+    }
+}
+.pink-skin .navbar 
+{   
+    background-color: #750000;
+}
+
+.pink-skin .top-nav-collapse 
+{
+background-color:gray ;
+}
+
+.pink-skin .navbar .navbar-nav .nav-item .dropdown-menu a:active, .pink-skin .navbar .navbar-nav .nav-item .dropdown-menu a:focus, .pink-skin .navbar .navbar-nav .nav-item .dropdown-menu a:hover 
+{
+    background-color: #750000;
+}
+
+.pink-skin .side-nav 
+{
+    background-color: gray;
+}
+
+.pink-skin .side-nav .collapsible li a.active, .pink-skin .side-nav .collapsible li a:hover 
+{
+    background-color: #750000;
+}
+
+.pink-skin input[type="email"]:focus:not([readonly]), .pink-skin input[type="text"]:focus:not([readonly]), .pink-skin input[type="password"]:focus:not([readonly]), .pink-skin textarea.md-textarea:focus:not([readonly]) 
+{
+    border-color: #750000;
+    box-shadow: 0 1px 0 0 #750000;
+}
+
+.logoMenuV
+{
+    height: 110px; width: 200px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.logoMenuH
+{
+    height: 30px;width: 30px;
+}
+
+/*Beging style menu*/

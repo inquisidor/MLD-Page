@@ -1,0 +1,26 @@
+/*Beging style Question*/
+.alternar-respuesta 
+{
+	color: #750000;
+	text-transform: uppercase;
+	font-weight: 600;
+	text-decoration:none;  
+}
+
+.row
+{
+	justify-content: center;
+	margin-top: 110px;
+}
+
+.respuesta
+{
+	display:none;
+}
+
+img
+{
+	width: 320px;height: 210px;
+}
+
+/*Beging style Question*/

@@ -1,0 +1,94 @@
+/*Beging style service Club*/
+.logosServiceClub
+{
+	height: 300px; width: 300px;
+	justify-content: center; display: flex;
+}
+
+.logos
+{
+	width: 200px; height: 200px;
+	display: flex;
+	justify-content: center;
+}
+
+.map
+{
+	display: flex;justify-content: center;
+	border:0;
+}
+
+.modal-header img
+{
+    width:100%;
+}
+
+.logos img 
+{
+    width:100%;
+}
+
+video
+{
+	width:100%; height:100%;
+}
+
+.tittle
+{
+	 text-transform: uppercase;
+	 text-align: center;
+	 color: #54697E;
+	 font-size: 28px;
+	 font-weight: 600;
+}
+
+.subtittle
+{
+	border-bottom: 1px solid #BAC1C8; 
+	color: #54697E; font-size: 18px; 
+	font-weight: 600; 
+	line-height: 27px;
+	padding: 40px 0 10px;
+	text-transform: uppercase;
+}
+
+img > .build
+{
+	height: 300px; width: 100%;
+	justify-content: center; display: flex;
+}
+
+.logos:hover 
+{
+	transition:all .5s ease-in-out;
+	-webkit-transform-style: preserve-3d;
+	transform: rotateY(360deg);
+	transform-style: preserve-3d;
+	border-radius : 50% ;
+	box-shadow: 0px 0px 2px 2px #750000;
+}
+
+.logos
+{
+	transition:all 0.5s ease;
+	margin-left: auto;margin-right: auto;
+}
+
+.todo
+{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	height: 650px;width: 100%;
+}
+
+.target
+{
+	width: 200px; height: 200px;
+}
+
+.modal-body u > h4 
+{
+	color: #750000;
+}
+/*Beging style service Club*/

@@ -1,0 +1,12 @@
+/*Beging style map*/
+.map
+{
+	display: flex;justify-content: center;
+	border:0;
+}
+
+#up-margin
+{
+    margin-top: 70px;
+}
+/*Beging style map*/

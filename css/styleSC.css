@@ -1,0 +1,72 @@
+/*Beging style service Club*/
+.logos
+{
+	width: 200px; height: 200px;
+	display: flex;
+	justify-content: center;
+}
+
+.modal-header img
+{
+    width:100%;
+}
+
+.logos img 
+{
+    width:100%;
+}
+
+
+.logos:hover 
+{
+	transition:all .5s ease-in-out;
+	-webkit-transform-style: preserve-3d;
+	transform: rotateY(360deg);
+	transform-style: preserve-3d;
+	border-radius : 50% ;
+	box-shadow: 0px 0px 2px 2px #750000;
+}
+
+.logos
+{
+	transition:all 0.5s ease;
+	margin-left: auto;margin-right: auto;
+}
+
+.todo
+{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	height: 650px;width: 100%;
+}
+
+.modal-body u > h4 
+{
+	color: #750000;
+}
+
+#up-margin
+{
+	margin-top: -90px;
+}
+
+p
+{
+	-moz-hyphens: auto; text-aling: justify;
+	-ms-hyphens:auto;text-aling: justify;
+	-webkit-hyphens:auto;text-aling: justify;
+	-o-hyphens:auto;text-aling: justify;
+}
+
+.card-title
+{
+	text-aling: center;
+}
+
+.btn-rounded
+{
+	text-aling: center;
+}
+
+/*Beging style service Club*/

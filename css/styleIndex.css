@@ -1,0 +1,61 @@
+/*Beging style Index*/
+.logosServiceClub
+{
+    height: 300px; width: 300px;
+    justify-content: center; display: flex;
+}
+
+.logos
+{
+    height: 600px; width: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.mld > img
+{
+    width:100%;
+}
+
+video
+{
+    width:100%;
+}
+.carousel-indicators li {
+    background: gray !important;
+}
+
+.title
+{
+	color: #750000;
+}
+
+.paragraph
+{
+	color:black;
+}
+
+.carousel .carousel-control-next-icon, .carousel .carousel-control-prev-icon 
+{
+    background: #750000;
+    border-radius: 50%;
+}
+/*Beging style Index*/
+
+.carousel-indicators li
+{
+    border: 1px solid #750000;
+}
+
+#up-margin
+{
+    margin-top: 70px;
+}
+/*
+.carousel-indicators .active 
+{
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    background-color: black;
+}*/
